@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <strong>Cybersecurity | Offensive Security | Red Teaming</strong>
+  <strong>Cybersecurity - Offensive Security - Red Teaming</strong>
 </p>
 
 ---
 
 ## 🛠 Expertise
 
-- **Red Teaming & Adversary Simulation** | Offensive security assessments, lateral movement, and privilege escalation.
+- **Red Teaming & Adversary Simulation** - Offensive security assessments, lateral movement, and privilege escalation.
 - **Penetration Testing** | Web, network, and Active Directory pentesting.
 - **OSINT & Reconnaissance** | Target profiling, information gathering, and attack surface discovery.
 - **Exploit Development & Reverse Engineering** | Debugging, binary analysis, and exploitation.
