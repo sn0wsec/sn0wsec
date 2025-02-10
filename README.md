@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Cybersecurity - Offensive Security - Red Teaming</strong>
+  <strong>It was only once, just one.</strong>
 </p>
 
 ---
