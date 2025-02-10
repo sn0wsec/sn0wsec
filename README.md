@@ -1,40 +1,48 @@
-# 👋 Hey, je suis SnowSec !
+<h1 align="center">SnowSec</h1>
 
-## 🏴‍☠️ Étudiant en Cybersécurité | Red Teaming & Pentesting Enthusiast
+<p align="center">
+  <img src="https://github.com/snowsec.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
-Bienvenue sur mon GitHub !  
-Je suis étudiant en informatique avec une passion pour la cybersécurité offensive, le Red Teaming et tout ce qui touche à l'informatique. Mon objectif est d’apprendre en explorant le domaine de la sécurité offensive et en partageant mes découvertes avec la communauté.
+<p align="center">
+  <strong>Cybersecurity | Offensive Security | Red Teaming</strong>
+</p>
 
 ---
 
-## 🔥 Ce que je fais actuellement
+## 🛠 Expertise
 
-- 🎓 **Étudiant en cybersécurité** : J'approfondis mes connaissances en sécurité offensive et en test d'intrusion.
-- 🎯 **Pentesting & Red Teaming** : J’explore les techniques d’attaque pour mieux comprendre comment sécuriser les systèmes.
-- 🔍 **OSINT & Reconnaissance** : J’expérimente la collecte d’informations et l’énumération pour le pentesting.
-- 💻 **Développement d'outils** : J’apprends à automatiser certaines tâches et à créer mes propres scripts.
+- **Red Teaming & Adversary Simulation** | Offensive security assessments, lateral movement, and privilege escalation.
+- **Penetration Testing** | Web, network, and Active Directory pentesting.
+- **OSINT & Reconnaissance** | Target profiling, information gathering, and attack surface discovery.
+- **Exploit Development & Reverse Engineering** | Debugging, binary analysis, and exploitation.
+- **Scripting & Tool Development** | Python, Bash, PowerShell, C, automation for offensive security.
 
 ---
 
 ## 📜 Certifications
 
-🔹 **[eJPT](#)** – Junior Penetration Tester
-🔹 **[CRTP](#)** – Certified Red Team Professional
-🔹 **[CRTE](#)** – Certified Red Team Expert
+- **eJPT** – Junior Penetration Tester *(Foundational offensive security)*
+- **CRTP** – Certified Red Team Professional *(Active Directory exploitation & privilege escalation)*
+- **CRTE** – Certified Red Team Expert *(Advanced adversary simulation & domain dominance)*
 
 ---
 
-## 🚀 Objectifs & Apprentissage
+## 🎯 Goals & Research
 
-✔ Approfondir mes compétences en Red Teaming  
-✔ Améliorer mes connaissances en exploitation de vulnérabilités  
-✔ Contribuer à la communauté en partageant mes découvertes  
-✔ Développer mes propres outils de pentesting  
+✔ Advanced Red Team tactics and OPSEC evasion  
+✔ Development of custom post-exploitation tools  
+✔ Advanced Active Directory attack techniques  
+✔ Exploit research and vulnerability analysis  
+✔ Knowledge sharing and cybersecurity contributions  
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact
 
-💬 **Discord :** snowsec  
+- **Discord:** `snowsec`
+- **GitHub:** [github.com/snowsec](https://github.com/snowsec)
 
-N'hésite pas à me contacter pour échanger sur la cybersécurité, partager des idées ou collaborer sur un projet ! 🚀
+---
+
+*For professional inquiries, research collaborations, or security discussions, feel free to connect.*
