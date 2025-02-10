@@ -1,7 +1,7 @@
 <h1 align="center">SnowSec</h1>
 
 <p align="center">
-  <img src="https://github.com/snowsec.png" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://github.com/sn0wsec.png" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
