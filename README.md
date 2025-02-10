@@ -13,10 +13,9 @@
 ## 🛠 Expertise
 
 - **Red Teaming & Adversary Simulation** - Offensive security assessments, lateral movement, and privilege escalation.
-- **Penetration Testing** | Web, network, and Active Directory pentesting.
-- **OSINT & Reconnaissance** | Target profiling, information gathering, and attack surface discovery.
-- **Exploit Development & Reverse Engineering** | Debugging, binary analysis, and exploitation.
-- **Scripting & Tool Development** | Python, Bash, PowerShell, C, automation for offensive security.
+- **Penetration Testing** - Web, network, and Active Directory pentesting.
+- **OSINT & Reconnaissance** - Target profiling, information gathering, and attack surface discovery.
+- **Scripting & Tool Development** - Python, Bash, PowerShell, C, automation for offensive security.
 
 ---
 
