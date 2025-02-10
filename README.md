@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>It was only once, just one.</strong>
+  <strong>It was only once, just one. - 18 yo</strong>
 </p>
 
 ---
